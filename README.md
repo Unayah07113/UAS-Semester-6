@@ -21,7 +21,8 @@ ini adalah tapilan apa apabila kita mengklik fitur pertambaha, pengurangan, perk
 ini adalah tampilan akhir dari mtk quiz jika kita menjawab soal salah ataupun pertanyaan sudah terjawab maka aka tampil seperti skor,ulang,atau keluar
 
 #Foto
-![alt text](https://github.com/Unayah07113/UAS-Semester-6/blob/main/tampilan akhir aplikasi.jpg?raw=true)
+![alt text](https://github.com/Unayah07113/UAS-Semester-6/blob/main/tampilan%20akhir%20aplikasi.jpg?raw=true)
+
 
 
 
